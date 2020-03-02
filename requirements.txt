@@ -1,0 +1,4 @@
+Flask
+Werkzeug
+gspread
+oauth2cient
